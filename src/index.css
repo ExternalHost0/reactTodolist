@@ -5,9 +5,6 @@
 
 :root {
   font-family: 'Inter', sans-serif;
-  /* font-size: 16px;
-  line-height: 24px;
-  font-weight: 400; */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -20,7 +17,6 @@ body {
   @apply bg-gray-100;
 }
 
-/* darkmode for body, stupid */
 body.dark {
   @apply bg-stone-900;
 }
